@@ -1,0 +1,19 @@
+.display-3 {
+    font-family: 'Raleway', sans-serif;
+    margin-top: 0.4em;
+    border-bottom: 2px solid black;
+    padding-bottom: 0.2em;
+
+
+}
+
+.col-6:last-of-type {
+    border-left: 2px solid black;
+}
+
+.card {
+    margin: 4em;
+    margin-left: 10.5em;
+    display: flex;
+
+}

@@ -1,0 +1,19 @@
+.mb-3 {
+    margin-top: 60px;
+    width: 45em;
+    margin-left: 200px;
+
+}
+
+.mb-3:last-of-type {
+    margin-top: 0;
+}
+
+#button2 {
+    margin-left: 200px;
+}
+
+.navbar-brand {
+
+    font-family: 'Bagel Fat One', cursive;
+}

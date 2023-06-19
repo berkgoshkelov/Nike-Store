@@ -1,0 +1,41 @@
+.h1 {
+    font-family: 'Bagel Fat One', cursive;
+    letter-spacing: 3px;
+    margin: 2em;
+    font-size: 3.5em;
+    margin-bottom: 0.2em;
+}
+
+.h3 {
+    font-family: 'Grandiflora One', serif;
+}
+
+.btn.btn-primary {
+    border-radius: 30px;
+    padding: 5px 15px;
+
+
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2em;
+}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2em;
+    border: black solid 0.3em;
+    border-radius: 10px;
+
+
+}
+
+.navbar-brand {
+
+    font-family: 'Bagel Fat One', cursive;
+}
